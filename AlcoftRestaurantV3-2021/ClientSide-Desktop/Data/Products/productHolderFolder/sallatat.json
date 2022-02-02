@@ -1,0 +1,78 @@
+{
+    "prodData": [
+        {
+            "name": "Sallat Shope",
+            "price": 2
+        },
+        {
+            "name": "Sallat Greke",
+            "price": 2
+        },
+        {
+            "name": "Sallat e \nGjelbert",
+            "price": 1.5
+        },
+        {
+            "name": "Sallat Mix",
+            "price": 2
+        },
+        {
+            "name": "Sallat Rruse",
+            "price": 2
+        },
+        {
+            "name": "Sallat Patate",
+            "price": 1.5
+        },
+        {
+            "name": "Sallat Vitamine",
+            "price": 1.5
+        },
+        {
+            "name": "Turshi Mix",
+            "price": 2.5
+        },
+        {
+            "name": "Speca me Ajke \n[Cope]",
+            "price": 1
+        },
+        {
+            "name": "Speca me \nHuder",
+            "price": 1
+        },
+
+
+        {
+            "name": "Sallat Shope \nGjys",
+            "price": 1.5
+        },
+        {
+            "name": "Sallat Greke \nGjys",
+            "price": 1.5
+        },
+        {
+            "name": "Sallat e \nGjelbert Gjys",
+            "price": 1
+        },
+        {
+            "name": "Sallat Mix \nGjys",
+            "price": 1.5
+        },
+        {
+            "name": "Sallat Rruse \nGjys",
+            "price": 1.5
+        },
+        {
+            "name": "Sallat Patate \nGjys",
+            "price": 1
+        },
+        {
+            "name": "Sallat Vitamine \nGjys",
+            "price": 1
+        },
+        {
+            "name": "Turshi Mix \nGjys",
+            "price": 1.7
+        }
+    ]
+}

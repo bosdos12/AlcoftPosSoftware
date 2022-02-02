@@ -1,0 +1,56 @@
+{
+  "prodData": [
+    {
+      "name": "Coca Cola",
+      "price": 1
+    },
+    {
+      "name": "Fanta",
+      "price": 1
+    },
+    {
+      "name": "Sprite",
+      "price": 1
+    },
+    {
+      "name": "Schweppes",
+      "price": 1
+    },
+    {
+      "name": "Tonic",
+      "price": 1
+    },
+    {
+      "name": "Leng Molle",
+      "price": 1
+    },
+    {
+      "name": "Leng Vishnje",
+      "price": 1
+    },
+    {
+      "name": "Leng Dredhez",
+      "price": 1
+    },
+    {
+      "name": "Leng Portokalli",
+      "price": 1
+    },
+    {
+      "name": "Uje Thjeshte",
+      "price": 0.5
+    },
+    {
+      "name": "Radenska",
+      "price": 0.7
+    },
+    {
+      "name": "Pepsi",
+      "price": 1.0
+    },
+    {
+      "name": "limonata",
+      "price": 1.0
+    }
+  ]
+}
