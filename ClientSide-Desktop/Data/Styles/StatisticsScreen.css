@@ -1,0 +1,59 @@
+QPushButton#goBackButton {
+    border: 2px solid white;
+    color: white;
+    background-color: #f1565e;
+    border-radius: 12%;
+}
+
+QPushButton:hover#goBackButton {
+    background-color: #cf8488;
+    border: 2px solid gray;
+}
+
+QFrame#backgroundFrame {
+	background: qlineargradient( x1:0 y1:0, x2:1 y2:0, stop:0 #4f446d, stop:1 #166af0);
+	border-top: 3px solid white;
+}
+
+QFrame#buttonsControlsSettingsFrame {
+	background-color: rgba(255, 255, 255, 0); 
+	border: 3px solid white;
+	border-radius: 10px;
+}
+
+QFrame#StatisticsFrame {
+	background-color: white; 
+	border: 3px solid white;
+	border-radius: 10px;
+}
+
+QScrollArea#commandButtonsSCROLLER {
+	background-color: rgba(255, 255, 255, 50);
+	border: 3px solid white;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+}
+
+QFrame#settingsOverlayFrame {
+	background-color: white;
+}
+
+QPushButton#goBackButtonOverlayFrame {
+    border: 2px solid white;
+    color: white;
+    background-color: #f1565e;
+    border-radius: 12%;
+}
+
+QPushButton:hover#goBackButtonOverlayFrame {
+    background-color: #cf8488;
+    border: 2px solid gray;
+}
+
+QScrollArea#monthsDaysDatesSCROLLER {
+	background-color: #333;
+	border: 1px solid #7f7f7f;
+}
+QDialog#plottingDialogBox {
+	background-color: #fcffe8;
+}

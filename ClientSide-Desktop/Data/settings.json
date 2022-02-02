@@ -1,0 +1,20 @@
+{
+    "standbySettings": {
+        "standByLogo": "./Data/Images/elegantlogo.jpg",
+        "standbyBackgroundColor": "black",
+        "standbyClockTextColor": "white",
+        "standbyClockShadowColor": "white",
+        "standbyClockShadowRadius": 20,
+        "standbyButtonShadowColor": "white",
+        "standbyButtonShadowRadius": 5
+    },
+    "mainPageSettings": {
+        "headerColor": "#333",
+        "footerColor": "#333",
+        "tableButtonConstantMax": 300,
+        "tableCount": 20
+    },
+    "globalData": {
+        "restaurantName": "AYY WHATSUP PPL"
+    }
+}
