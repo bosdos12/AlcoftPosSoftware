@@ -1,0 +1,24 @@
+{
+  "tbp": 9,
+  "tBill": [
+    {
+      "n": "jack daniels",
+      "c": 1,
+      "p": 3
+    },
+    {
+      "n": "jack daniels",
+      "c": 1,
+      "p": 3
+    },
+    {
+      "n": "jack daniels",
+      "c": 1,
+      "p": 3
+    }
+  ],
+  "SaleTime": "05-02-2021-18-57-05",
+  "totalWithTax": 7.47,
+  "compName": "COMPANY NAME",
+  "taxValue": "17%"
+}
