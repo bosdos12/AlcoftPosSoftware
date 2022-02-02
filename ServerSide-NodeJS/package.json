@@ -1,0 +1,12 @@
+{
+  "name": "serverside-nodejs",
+  "version": "1.0.0",
+  "description": "The server of Alcoft desktop pos systems",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "author": "Adak Celina",
+  "license": "ISC"
+}

@@ -1,0 +1,33 @@
+#mainNameHeader {
+    position: relative;
+}
+
+.navbar {
+    overflow: hidden;
+    background-color: black;
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+}
+.navbar a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+}
+.navbar a:hover {
+    background-color: #ddd;
+    color: black;
+}
+.navbar a.active {
+    background-color: #666;
+    color: white;
+}
+
+.sideTextBox {
+    width: 50%;
+    height: fit-content;
+    text-align: left;
+}
