@@ -1,0 +1,12 @@
+{
+  "prodData": [
+    {
+      "name": "random",
+      "price": 3
+    },
+    {
+      "name": "brusketta",
+      "price": 2.0
+    }
+  ]
+}
